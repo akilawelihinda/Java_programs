@@ -10,3 +10,5 @@ List of Programs:
               decide whether you want to scramble or unscramble and enter in the sequence, and the program will give you
               the conversion.
               
+-Tumerian Weights ==> challenge ICPC problem 2013
+              
